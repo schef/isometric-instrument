@@ -1,0 +1,1424 @@
+Cmp-Mod V01 Created by Cvpcb (2014-10-05 BZR 5164)-product   date = Fri 24 Oct 2014 05:33:54 PM CEST
+
+BeginCmp
+TimeStamp = /544A7426;
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A74AB;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A74D7;
+Reference = D3;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A8818;
+Reference = D4;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A881E;
+Reference = D5;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A8824;
+Reference = D6;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A8A53;
+Reference = D7;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A8A59;
+Reference = D8;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BC6;
+Reference = D9;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BCC;
+Reference = D10;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BD2;
+Reference = D11;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BEA;
+Reference = D12;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BF0;
+Reference = D13;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BF6;
+Reference = D14;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1C08;
+Reference = D15;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1C0E;
+Reference = D16;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C398B;
+Reference = D17;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3991;
+Reference = D18;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3997;
+Reference = D19;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39AF;
+Reference = D20;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39B5;
+Reference = D21;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39BB;
+Reference = D22;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39CD;
+Reference = D23;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39D3;
+Reference = D24;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39EB;
+Reference = D25;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39F1;
+Reference = D26;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39F7;
+Reference = D27;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3A0F;
+Reference = D28;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3A15;
+Reference = D29;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3A1B;
+Reference = D30;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3A2D;
+Reference = D31;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3A33;
+Reference = D32;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DB2;
+Reference = D33;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DB8;
+Reference = D34;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DBE;
+Reference = D35;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DD6;
+Reference = D36;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DDC;
+Reference = D37;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DE2;
+Reference = D38;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DF4;
+Reference = D39;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DFA;
+Reference = D40;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E12;
+Reference = D41;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E18;
+Reference = D42;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E1E;
+Reference = D43;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E36;
+Reference = D44;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E3C;
+Reference = D45;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E42;
+Reference = D46;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E54;
+Reference = D47;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E5A;
+Reference = D48;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E72;
+Reference = D49;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E78;
+Reference = D50;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E7E;
+Reference = D51;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E96;
+Reference = D52;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E9C;
+Reference = D53;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EA2;
+Reference = D54;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EB4;
+Reference = D55;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EBA;
+Reference = D56;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4ED2;
+Reference = D57;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4ED8;
+Reference = D58;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EDE;
+Reference = D59;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EF6;
+Reference = D60;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EFC;
+Reference = D61;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4F02;
+Reference = D62;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4F14;
+Reference = D63;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4F1A;
+Reference = D64;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8180;
+Reference = D65;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8186;
+Reference = D66;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C818C;
+Reference = D67;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81A4;
+Reference = D68;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81AA;
+Reference = D69;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81B0;
+Reference = D70;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81C2;
+Reference = D71;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81C8;
+Reference = D72;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81E0;
+Reference = D73;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81E6;
+Reference = D74;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81EC;
+Reference = D75;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8204;
+Reference = D76;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C820A;
+Reference = D77;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8210;
+Reference = D78;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8222;
+Reference = D79;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8228;
+Reference = D80;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8240;
+Reference = D81;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8246;
+Reference = D82;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C824C;
+Reference = D83;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8264;
+Reference = D84;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C826A;
+Reference = D85;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8270;
+Reference = D86;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8282;
+Reference = D87;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8288;
+Reference = D88;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82A0;
+Reference = D89;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82A6;
+Reference = D90;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82AC;
+Reference = D91;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82C4;
+Reference = D92;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82CA;
+Reference = D93;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82D0;
+Reference = D94;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82E2;
+Reference = D95;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82E8;
+Reference = D96;
+ValeurCmp = DIODE;
+IdModule  = Diodes_ThroughHole:Diode_DO-41_SOD81_Horizontal_RM10;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A4DDD;
+Reference = J1;
+ValeurCmp = RJ45;
+IdModule  = Connect:RJ45_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A4F8A;
+Reference = J2;
+ValeurCmp = RJ45;
+IdModule  = Connect:RJ45_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A4FE6;
+Reference = J3;
+ValeurCmp = RJ45;
+IdModule  = Connect:RJ45_8;
+EndCmp
+
+BeginCmp
+TimeStamp = /5453A4F7;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5453CBB8;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5453CD62;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5453CE54;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5453D5DC;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5453D5E2;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5453D5E8;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5453D5EE;
+Reference = R8;
+ValeurCmp = R;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A4D38;
+Reference = SW1;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A6147;
+Reference = SW2;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A6171;
+Reference = SW3;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A8806;
+Reference = SW4;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A880C;
+Reference = SW5;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A8812;
+Reference = SW6;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A8A47;
+Reference = SW7;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544A8A4D;
+Reference = SW8;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BB4;
+Reference = SW9;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BBA;
+Reference = SW10;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BC0;
+Reference = SW11;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BD8;
+Reference = SW12;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BDE;
+Reference = SW13;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BE4;
+Reference = SW14;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1BFC;
+Reference = SW15;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C1C02;
+Reference = SW16;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3979;
+Reference = SW17;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C397F;
+Reference = SW18;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3985;
+Reference = SW19;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C399D;
+Reference = SW20;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39A3;
+Reference = SW21;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39A9;
+Reference = SW22;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39C1;
+Reference = SW23;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39C7;
+Reference = SW24;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39D9;
+Reference = SW25;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39DF;
+Reference = SW26;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39E5;
+Reference = SW27;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C39FD;
+Reference = SW28;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3A03;
+Reference = SW29;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3A09;
+Reference = SW30;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3A21;
+Reference = SW31;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C3A27;
+Reference = SW32;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DA0;
+Reference = SW33;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DA6;
+Reference = SW34;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DAC;
+Reference = SW35;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DC4;
+Reference = SW36;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DCA;
+Reference = SW37;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DD0;
+Reference = SW38;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DE8;
+Reference = SW39;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4DEE;
+Reference = SW40;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E00;
+Reference = SW41;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E06;
+Reference = SW42;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E0C;
+Reference = SW43;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E24;
+Reference = SW44;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E2A;
+Reference = SW45;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E30;
+Reference = SW46;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E48;
+Reference = SW47;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E4E;
+Reference = SW48;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E60;
+Reference = SW49;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E66;
+Reference = SW50;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E6C;
+Reference = SW51;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E84;
+Reference = SW52;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E8A;
+Reference = SW53;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4E90;
+Reference = SW54;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EA8;
+Reference = SW55;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EAE;
+Reference = SW56;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EC0;
+Reference = SW57;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EC6;
+Reference = SW58;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4ECC;
+Reference = SW59;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EE4;
+Reference = SW60;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EEA;
+Reference = SW61;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4EF0;
+Reference = SW62;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4F08;
+Reference = SW63;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C4F0E;
+Reference = SW64;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C816E;
+Reference = SW65;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8174;
+Reference = SW66;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C817A;
+Reference = SW67;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8192;
+Reference = SW68;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8198;
+Reference = SW69;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C819E;
+Reference = SW70;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81B6;
+Reference = SW71;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81BC;
+Reference = SW72;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81CE;
+Reference = SW73;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81D4;
+Reference = SW74;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81DA;
+Reference = SW75;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81F2;
+Reference = SW76;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81F8;
+Reference = SW77;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C81FE;
+Reference = SW78;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8216;
+Reference = SW79;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C821C;
+Reference = SW80;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C822E;
+Reference = SW81;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8234;
+Reference = SW82;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C823A;
+Reference = SW83;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8252;
+Reference = SW84;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8258;
+Reference = SW85;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C825E;
+Reference = SW86;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8276;
+Reference = SW87;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C827C;
+Reference = SW88;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C828E;
+Reference = SW89;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C8294;
+Reference = SW90;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C829A;
+Reference = SW91;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82B2;
+Reference = SW92;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82B8;
+Reference = SW93;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82BE;
+Reference = SW94;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82D6;
+Reference = SW95;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /544C82DC;
+Reference = SW96;
+ValeurCmp = SWITCH_INV;
+IdModule  = isometric-instrument:microswitch_5_08mm;
+EndCmp
+
+EndListe
