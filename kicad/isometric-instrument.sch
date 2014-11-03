@@ -30,6 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:isometric-instrument
+LIBS:isometric-instrument-cache
 EELAYER 25 0
 EELAYER END
 $Descr A0 46811 33110
@@ -2190,28 +2191,6 @@ F 3 "" H 42950 16350 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L R R1
-U 1 1 5453A4F7
-P 4950 17700
-F 0 "R1" V 5030 17700 40  0000 C CNN
-F 1 "R" V 4957 17701 40  0000 C CNN
-F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 4880 17700 30  0001 C CNN
-F 3 "" H 4950 17700 30  0000 C CNN
-	1    4950 17700
-	1    0    0    -1  
-$EndComp
-$Comp
-L R R2
-U 1 1 5453CBB8
-P 5350 17700
-F 0 "R2" V 5430 17700 40  0000 C CNN
-F 1 "R" V 5357 17701 40  0000 C CNN
-F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 5280 17700 30  0001 C CNN
-F 3 "" H 5350 17700 30  0000 C CNN
-	1    5350 17700
-	1    0    0    -1  
-$EndComp
-$Comp
 L R R3
 U 1 1 5453CD62
 P 5750 17700
@@ -2874,8 +2853,6 @@ Wire Wire Line
 	39750 16450 39750 17350
 Connection ~ 39750 17350
 Wire Wire Line
-	3400 17950 7750 17950
-Wire Wire Line
 	3400 17950 3400 11800
 Wire Wire Line
 	3400 11800 4700 11800
@@ -2883,4 +2860,35 @@ Wire Wire Line
 	4700 11800 4700 12100
 Wire Wire Line
 	4700 12100 4600 12100
+Wire Wire Line
+	3400 17950 7750 17950
+Connection ~ 4950 17950
+Connection ~ 5350 17950
+Connection ~ 5750 17950
+Connection ~ 6150 17950
+Connection ~ 6550 17950
+Connection ~ 6950 17950
+Connection ~ 7350 17950
+$Comp
+L R R2
+U 1 1 5453CBB8
+P 5350 17700
+F 0 "R2" V 5430 17700 40  0000 C CNN
+F 1 "R" V 5357 17701 40  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 5280 17700 30  0001 C CNN
+F 3 "" H 5350 17700 30  0000 C CNN
+	1    5350 17700
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R1
+U 1 1 5453A4F7
+P 4950 17700
+F 0 "R1" V 5030 17700 40  0000 C CNN
+F 1 "R" V 4957 17701 40  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" V 4880 17700 30  0001 C CNN
+F 3 "" H 4950 17700 30  0000 C CNN
+	1    4950 17700
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
